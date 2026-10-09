@@ -1,0 +1,12 @@
+{
+  "domain": "教育",
+  "platforms": [
+    "抖音",
+    "公众号"
+  ],
+  "primary_platform": "公众号",
+  "style": "情感共鸣",
+  "aspect": "16:9",
+  "enable_video": true,
+  "video_args": ""
+}
