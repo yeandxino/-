@@ -21,3 +21,7 @@ memory/
 .vscode/
 .idea/
 .DS_Store
+
+# 含真实密钥，仅用于复制到 Streamlit，绝不要提交
+云端Secrets*.toml
+secrets.toml
